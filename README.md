@@ -1,6 +1,7 @@
 
 # Redis
 
+
 A Redis-like server implementation.
 
 I used an article “build your own redis server with c/c++”. This server uses  data structures like hash table, AVL- tree, heap, linked list and queue.
@@ -8,6 +9,7 @@ I used an article “build your own redis server with c/c++”. This server uses
 https://build-your-own.org/redis/#table-of-contents
 
 ## Commands Supported and usage
+
 
 1. "set" command sets a key-value data into the database.
     ./client <IP> <set> <key> <value>
